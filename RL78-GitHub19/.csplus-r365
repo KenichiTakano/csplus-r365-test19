@@ -3,13 +3,13 @@
   "workspaceUrl": "https://r-e9fgrz.dev-365.altium.com/",
   "workspaceId": "grid:global::platform:workspace/399c0b64-cfbc-45b6-bf3c-e2da8dcc79ef",
   "workspaceAuthId": "399c0b64-cfbc-45b6-bf3c-e2da8dcc79ef",
-  "solutionId": "grid:workspace:399c0b64-cfbc-45b6-bf3c-e2da8dcc79ef:platform:solution/2C78B685-D662-4418-A48F-75DD6E58F2C4",
-  "softwareProjectId": "grid:workspace:399c0b64-cfbc-45b6-bf3c-e2da8dcc79ef:software:software-project/1EB97AF9-52F0-4166-9177-3AE22978217D",
-  "createdUtc": "2026-10-14T02:51:58.4776415Z",
-  "projectName": "RL78-GitHub19",
-  "repositoryUrl": "https://github.com/KenichiTakano/hehehe",
+  "solutionId": "grid:workspace:399c0b64-cfbc-45b6-bf3c-e2da8dcc79ef:platform:solution/7D7FD100-02E1-42EC-9891-4FEC91F31DAC",
+  "softwareProjectId": "grid:workspace:399c0b64-cfbc-45b6-bf3c-e2da8dcc79ef:software:software-project/C808BBB0-6854-4B56-BB63-4412B3C93631",
+  "createdUtc": "2026-10-23T08:10:57.6980287Z",
+  "projectName": "RL78-GitHub19 (1)",
+  "repositoryUrl": "https://github.com/KenichiTakano/csplus-r365-test19.git",
   "parentSolutionIds": [
-    "grid:workspace:399c0b64-cfbc-45b6-bf3c-e2da8dcc79ef:platform:solution/2C78B685-D662-4418-A48F-75DD6E58F2C4"
+    "grid:workspace:399c0b64-cfbc-45b6-bf3c-e2da8dcc79ef:platform:solution/7D7FD100-02E1-42EC-9891-4FEC91F31DAC"
   ],
   "environmentId": "Dev"
 }
