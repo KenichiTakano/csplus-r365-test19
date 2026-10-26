@@ -3,13 +3,13 @@
   "workspaceUrl": "https://r-e9fgrz.dev-365.altium.com/",
   "workspaceId": "grid:global::platform:workspace/399c0b64-cfbc-45b6-bf3c-e2da8dcc79ef",
   "workspaceAuthId": "399c0b64-cfbc-45b6-bf3c-e2da8dcc79ef",
-  "solutionId": "grid:workspace:399c0b64-cfbc-45b6-bf3c-e2da8dcc79ef:platform:solution/7EDBEE42-EA89-4B6D-B637-79B58ED749F1",
-  "softwareProjectId": "grid:workspace:399c0b64-cfbc-45b6-bf3c-e2da8dcc79ef:software:software-project/3B8C8E5C-97E3-41E6-AA55-60996C63B0A9",
-  "createdUtc": "2026-10-26T02:26:27.6693582Z",
-  "projectName": "RL78-GitHub19 (2)",
+  "solutionId": "grid:workspace:399c0b64-cfbc-45b6-bf3c-e2da8dcc79ef:platform:solution/921240AF-C79C-42FA-B180-176A6C55FBD3",
+  "softwareProjectId": "grid:workspace:399c0b64-cfbc-45b6-bf3c-e2da8dcc79ef:software:software-project/68C009A0-8F76-4572-92D9-AA586E4FB432",
+  "createdUtc": "2026-10-26T02:35:26.0598161Z",
+  "projectName": "RL78-GitHub19 (3)",
   "repositoryUrl": "https://github.com/KenichiTakano/csplus-r365-test19.git",
   "parentSolutionIds": [
-    "grid:workspace:399c0b64-cfbc-45b6-bf3c-e2da8dcc79ef:platform:solution/7EDBEE42-EA89-4B6D-B637-79B58ED749F1"
+    "grid:workspace:399c0b64-cfbc-45b6-bf3c-e2da8dcc79ef:platform:solution/921240AF-C79C-42FA-B180-176A6C55FBD3"
   ],
   "environmentId": "Dev"
 }
